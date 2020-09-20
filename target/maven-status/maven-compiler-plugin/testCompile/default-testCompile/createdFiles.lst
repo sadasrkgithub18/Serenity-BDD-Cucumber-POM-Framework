@@ -1,0 +1,4 @@
+com\qa\runner\RunCuke.class
+com\qa\stepDefinitions\CreateCustomerStep.class
+com\qa\stepDefinitions\LoginValidationSteps.class
+com\qa\stepDefinitions\DeleteCustomerStep.class

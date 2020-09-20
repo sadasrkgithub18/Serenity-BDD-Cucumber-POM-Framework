@@ -1,0 +1,9 @@
+com\qa\base\BasePage.class
+com\qa\webpages\AddNewCustomerPage.class
+com\qa\webpages\ProjectsAndCustomersPage.class
+com\qa\steps\DeleteCustomerSteps.class
+com\qa\steps\CreateCustomerSteps.class
+com\qa\webpages\LoginPage.class
+com\qa\webpages\EditCustomerInformationPage.class
+com\qa\webpages\OpenTaskPage.class
+com\qa\steps\LoginLogoutSteps.class
